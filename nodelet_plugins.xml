@@ -1,0 +1,7 @@
+<library path="lib/libimage_detecttile">
+
+  <class name="image_detecttile/image_detecttile" type="image_detecttile::ImageDetecttileNodelet" base_class_type="nodelet::Nodelet">
+    <description>Nodelet to detect tiles sensor_msgs/Image</description>
+  </class>
+
+</library>

@@ -1,0 +1,9 @@
+int8 tile_idx
+float32 centerPoint_x
+float32 centerPoint_y
+float32 size_height
+float32 size_width
+float32 angle 
+int8 color_B
+int8 color_G
+int8 color_R
